@@ -19,9 +19,9 @@ And instantly know:
 
 Built for low digital literacy and low bandwidth users.
 
-## 2️⃣ Why AWS (and which AWS services you’ll use)
+## 2️⃣ Why AWS (and which AWS services we’ll use)
 
-This hackathon expects AWS usage, and this project fits AWS perfectly.
+This hackathon expects AWS usage,
 
 ### Core AWS Services
 
@@ -36,7 +36,7 @@ This hackathon expects AWS usage, and this project fits AWS perfectly.
 | Data storage        | Amazon DynamoDB           | Fast NoSQL for schemes & user queries|
 | Auth (optional)     | Amazon Cognito            | User login if needed                 |
 
-✅ This ticks the AWS box strongly for judges.
+
 
 ## 3️⃣ Unique Solution & USP (Why this stands out)
 
@@ -61,7 +61,7 @@ This hackathon expects AWS usage, and this project fits AWS perfectly.
 
 👉 SaarthiAI solves access, not just information.
 
-## 5️⃣ Project Flow / Architecture (Explained)
+## 5️⃣ Project Flow / Architecture
 
 ### User Flow:
 
@@ -91,7 +91,7 @@ Response → Polly → User
 ### Frontend:
 - React
 - Tailwind CSS
-- Web Speech API (optional)
+- Web Speech API
 
 ### Backend:
 - AWS Lambda (Node.js / Python)
@@ -121,15 +121,6 @@ This supports:
 - SDGs (education, poverty, equality)
 
 This is not just an app — it’s digital inclusion.
-
-## 8️⃣ Resume Value (VERY HIGH)
-
-On your resume, this becomes:
-
-**SaarthiAI – AI for Bharat Hackathon**  
-Built a voice-first, multilingual AI platform using AWS Bedrock and serverless architecture to improve citizen access to government schemes and public services in India.
-
-**Recruiters will LOVE this because it shows:**
 
 - AI + AWS
 - Real-world impact
